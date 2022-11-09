@@ -100,3 +100,34 @@ h2 {
     background-color: #000;
     color: #C0C0C0;
 }
+
+.img_content {
+    overflow: scroll;
+    overflow-x: hidden;
+    margin: auto;
+    border: #A80000 solid 1px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    height: 10vh;
+    width: 70%;
+    text-align: left;
+    padding: 10px;
+}
+
+.img_left {
+    float: left;
+    height: 100%;
+    padding-right: 10px;
+}
+
+.img_right{
+    float: right;
+    padding-right: 10px;
+    height: 100%;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin: auto;
+}
