@@ -150,7 +150,7 @@ table, th, td {
 
 form {
     width: 50%;
-    margin: 10px 155px;
+    margin: 10px auto;
 }
 
 .form_style {
