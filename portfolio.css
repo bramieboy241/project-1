@@ -92,3 +92,11 @@ h2 {
     width: 78%;
     color: #FF2A00;
 }
+
+.border {
+    border: 5px solid #FF2A00;
+    width: auto;
+    border-radius: 10px;
+    background-color: #000;
+    color: #C0C0C0;
+}
